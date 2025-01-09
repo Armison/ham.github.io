@@ -1,11 +1,11 @@
 # Site settings
-title: Armison Blog
-SEOTitle: Armison的博客 | Armison Blog
+title: Ham's Notes
+SEOTitle: Ham's Notes
 header-img: img/home-bg.png
-email: armison.huang@qq.com
-description: "Just for GPU"
-keyword: "GPU, Armison"
-url: "https://armison.github.io"              # your host, for absolute URL
+email: min.king@qq.com
+description: "Ham is on"
+keyword: "Ham"
+url: "https://ham.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: true
 #weibo_username:     armison
 zhihu_username:     mimijava
-github_username:    armison
+github_username:    ham-iosn
 #twitter_username:   armison
 #facebook_username:  armison
 #linkedin_username:  firstname-lastname-idxxxx
@@ -70,7 +70,7 @@ ga_metrics_id: 'G-XBQJD2MHLN'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Armison, A GPU Programmer"
+sidebar-about-description: "Ham, A Programmer"
 sidebar-avatar: https://github.com/Armison.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -98,7 +98,7 @@ friends: [
         title: "Hux",
         href: "https://huangxuan.me/"
     },{
-        title: "Connect Armison",
-        href: "mailto:armison.huang@qq.com"
+        title: "Connect Ham",
+        href: "mailto:min.king@qq.com"
     }
 ]
