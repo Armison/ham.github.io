@@ -1,14 +1,14 @@
 {
-    "name": "armison-blog",
-    "title": "Armison Blog",
-    "author": "Armison <armison.huang@qq.com>",
+    "name": "ham-ison",
+    "title": "Ham's Notes",
+    "author": "Ham <min.king@qq.com>",
     "version": "0.0.1",
-    "homepage": "http://armison.github.io",
+    "homepage": "http://ham.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Armison/armison.github.io"
+        "url": "https://github.com/ham-ison/ham.github.io"
     },
-    "bugs": "https://github.com/Armison/armison.github.io/issues",
+    "bugs": "https://github.com/ham-ison/ham.github.io/issues",
     "devDependencies": {
         "grunt": "^1.4.1",
         "grunt-banner": "~0.2.3",
