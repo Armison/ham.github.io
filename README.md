@@ -50,3 +50,17 @@ Apache License 2.0
 Copyright (c) 2022-present Armison
 
 This Blog is derived from [Hux BLog](https://github.com/Huxpro/huxpro.github.io)
+
+
+
+# use ruby 3.3 
+
+ruby@3.3 is keg-only, which means it was not symlinked into /opt/homebrew,
+because this is an alternate version of another formula.
+
+If you need to have ruby@3.3 first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/ruby@3.3/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find ruby@3.3 you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/ruby@3.3/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/ruby@3.3/include"
