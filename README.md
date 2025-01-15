@@ -47,7 +47,7 @@ grunt
 
 # License
 Apache License 2.0
-Copyright (c) 2022-present Armison
+Copyright (c) 2022-present Ham
 
 This Blog is derived from [Hux BLog](https://github.com/Huxpro/huxpro.github.io)
 

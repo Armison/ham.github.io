@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: true
-#weibo_username:     armison
+#weibo_username:     ham-ison
 zhihu_username:     mimijava
 github_username:    ham-ison
-#twitter_username:   armison
-#facebook_username:  armison
+#twitter_username:   ham-ison
+#facebook_username:  ham-ison
 #linkedin_username:  firstname-lastname-idxxxx
 
 

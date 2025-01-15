@@ -1,7 +1,7 @@
 {
-  "name": "Armison Blog",
-  "short_name": "Armison Blog",
-  "description": "Armison National Light Hero.",
+  "name": "Ham's Notes",
+  "short_name": "Ham's Notes",
+  "description": "Ham is a programmer, and he writes notes.",
   "icons": [{
     "src": "icons/198.png",
     "sizes": "198x198",
